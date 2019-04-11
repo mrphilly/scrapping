@@ -1,0 +1,1 @@
+UPDATE products SET logo = "http://137.74.199.121/img/logo/inter/amazon.jpg", logoS = "http://137.74.199.121/img/logo/inter/logoS/amazon.jpg";
